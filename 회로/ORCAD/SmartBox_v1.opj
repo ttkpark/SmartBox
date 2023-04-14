@@ -1,0 +1,238 @@
+(ExpressProject "SmartBox_v1"
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\my_ics.olb"
+        (Type "Schematic Library"))
+      (File ".\my_remotecharger.olb"
+        (Type "Schematic Library"))
+      (File "F:\Project\CAD\ORCAD\Symbols_GH\NRF24L01.OLB"
+        (Type "Schematic Library"))
+      (File "F:\Project\CAD\ORCAD\Symbols_GH\LoRaModules.OLB"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\smartbox_v1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Report_File "F:\Desktop\SmartBox\04.Source\회로\ORCAD\SMARTBOX_V1.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "FALSE")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File" "allegro\SMARTBOX_V1.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ORCAD")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\smartbox_v1.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE SCHOTTKY"
+      (FullPartName "DIODE SCHOTTKY.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (MOSFET_EN_SGD
+      (FullPartName "MOSFET_EN_SGD.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (EPD_DISPLAY
+      (FullPartName "EPD_DISPLAY.Normal")
+      (LibraryName
+         "C:\DESKTOP\WORK\8-I4\SMARTBOX\04.SOURCE\회로\ORCAD\MY_ICS.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTLEFT-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (IS25LQ010B
+      (FullPartName "IS25LQ010B.Normal")
+      (LibraryName
+         "C:\DESKTOP\WORK\8-I4\SMARTBOX\04.SOURCE\회로\ORCAD\MY_ICS.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (INA219
+      (FullPartName "INA219.Normal")
+      (LibraryName
+         "C:\DESKTOP\WORK\8-I4\SMARTBOX\04.SOURCE\회로\ORCAD\MY_ICS.OLB")
+      (DeviceIndex "0"))
+    (AT24C02
+      (FullPartName "AT24C02.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\PROM.OLB")
+      (DeviceIndex "0"))
+    (DS3231M
+      (FullPartName "DS3231M.Normal")
+      (LibraryName
+         "C:\DESKTOP\WORK\8-I4\SMARTBOX\04.SOURCE\회로\ORCAD\MY_ICS.OLB")
+      (DeviceIndex "0"))
+    ("ANTENNA GND"
+      (FullPartName "ANTENNA GND.Normal")
+      (LibraryName "F:\PROJECT\CAD\ORCAD\SYMBOLS_GH\LORAMODULES.OLB")
+      (DeviceIndex "0"))
+    (ANTENNA
+      (FullPartName "ANTENNA.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RFM95
+      (FullPartName "RFM95.Normal")
+      (LibraryName "F:\PROJECT\CAD\ORCAD\SYMBOLS_GH\LORAMODULES.OLB")
+      (DeviceIndex "0"))
+    ("nRF24L01 SMD"
+      (FullPartName "nRF24L01 SMD.Normal")
+      (LibraryName "F:\PROJECT\CAD\ORCAD\SYMBOLS_GH\NRF24L01.OLB")
+      (DeviceIndex "0"))
+    (CON5
+      (FullPartName "CON5.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LED_RG
+      (FullPartName "LED_RG.Normal")
+      (LibraryName
+         "C:\DESKTOP\WORK\8-I4\SMARTBOX\04.SOURCE\회로\ORCAD\MY_ICS.OLB")
+      (DeviceIndex "0"))
+    (STM32L412K8TX
+      (FullPartName "STM32L412K8TX.Normal")
+      (LibraryName
+         "C:\DESKTOP\WORK\8-I4\SMARTBOX\04.SOURCE\회로\ORCAD\MY_ICS.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\smartbox_v1.dsn")
+      (Path "Design Resources" ".\smartbox_v1.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\smartbox_v1.dsn" "E_PAPER")
+      (Path "Design Resources" "Library")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -9 -38 0 200 0 431"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 52 1691 52 531")
+        (Scroll "85 238")
+        (Zoom "144")
+        (Occurrence "/"))
+      (Path "F:\DESKTOP\SMARTBOX\04.SOURCE\회로\ORCAD\SMARTBOX_V1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "CPU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 104 1821 104 432")
+        (Scroll "-254 0")
+        (Zoom "100")
+        (Occurrence "/EPAPER"))
+      (Path "F:\DESKTOP\SMARTBOX\04.SOURCE\회로\ORCAD\SMARTBOX_V1.DSN")
+      (Schematic "E_PAPER")
+      (Page "EPAPER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 130 1847 130 458")
+        (Scroll "-254 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "F:\DESKTOP\SMARTBOX\04.SOURCE\회로\ORCAD\SMARTBOX_V1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "GPU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -38 156 1873 156 484")
+        (Scroll "-254 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "F:\DESKTOP\SMARTBOX\04.SOURCE\회로\ORCAD\SMARTBOX_V1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "POWER")))
+  (LastUsedLibraryBrowseDirectory "F:\Project\CAD\ORCAD\Symbols_GH")
+  (MPSSessionName "Administrator")
+  (ISPCBBASICLICENSE "false"))

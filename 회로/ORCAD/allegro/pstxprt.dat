@@ -1,0 +1,580 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Oct-21-2020 at 09:02:39 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SMARTBOX_V1';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CAP3216_1UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS449@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins449@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins449@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_CAP3216_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1280@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1280@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1280@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_CAP3216_1UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1296@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1296@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1296@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_CAP3216_1UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1312@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1312@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1312@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_CAP3216_4.7UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1099@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1099@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1099@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_CAP3216_0.1UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1126@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1126@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1126@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_CAP3216_1UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS1031@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins1031@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins1031@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_CAP3216_1UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1151@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1151@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1151@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_CAP3216_1UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1167@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1167@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1167@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_CAP3216_1UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1183@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1183@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1183@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_CAP3216_1UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1199@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1199@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1199@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_CAP3216_1UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1215@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1215@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1215@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_CAP3216_1UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1231@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1231@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1231@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_CAP3216_1UF':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1247@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1247@discrete.\cap np.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1247@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE SCHOTTKY_SOD123_MBR0530':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1384@DISCRETE.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1384@discrete.\diode schottky.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1384@discrete.\diode schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE SCHOTTKY_SOD123_MBR0530':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1400@DISCRETE.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1400@discrete.\diode schottky.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1400@discrete.\diode schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'DIODE SCHOTTKY_SOD123_MBR0530':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1418@DISCRETE.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1418@discrete.\diode schottky.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1418@discrete.\diode schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'DFR0363_DFR0363_DFR0363':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS230@MY_REMOTECHARGER.DFR0363.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins230@my_remotecharger.\dfr0363.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins230@my_remotecharger.\dfr0363.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON3_BATTERYCONNECTOR_CON3':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS1083@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins1083@connector.\con3.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins1083@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON5_JUMPER5_CON5':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS4571@CONNECTOR.CON5.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins4571@connector.\con5.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins4571@connector.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'ANTENNA GND_0_UPL_ANTENNA GND':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS6006@SMARTBOX_V1.ANTENNA GND_0.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins6006@smartbox_v1.\antenna gnd_0.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins6006@smartbox_v1.\antenna gnd_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'CON4_JUMPER4_CON4':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS8962@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins8962@connector.\con4.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins8962@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'CON5_JUMPER5_CON5':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS16983@CONNECTOR.CON5.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins16983@connector.\con5.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins16983@connector.\con5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J7 'EPD_DISPLAY_0_EPD_DISPLAY_EPD_D':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS176@SMARTBOX_V1.EPD_DISPLAY_0.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins176@smartbox_v1.\epd_display_0.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins176@smartbox_v1.\epd_display_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_CAP3216_88UH':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS2698@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins2698@discrete.\inductor.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins2698@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MOSFET_EN_SGD_SOT23_SI1308EDL':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS822@TRANSISTOR.MOSFET_EN_SGD.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins822@transistor.\mosfet_en_sgd.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins822@transistor.\mosfet_en_sgd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'MOSFET_EP_SGD_SOT23_DMP1045U':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS3017@TRANSISTOR.MOSFET_EP_SGD.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins3017@transistor.\mosfet_ep_sgd.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins3017@transistor.\mosfet_ep_sgd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_CAP3216_1K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS490@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins490@discrete.\resistor.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins490@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_CAP3216_4.7K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS12571@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins12571@discrete.\r.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins12571@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R100 'RESISTOR_CAP3216_10K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1343@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1343@discrete.\resistor.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1343@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R101 'RESISTOR_CAP3216_3':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):EPAPER@SMARTBOX_V1.E_PAPER(SCH_1):INS1359@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):epaper@smartbox_v1.e_paper(sch_1):ins1359@discrete.\resistor.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_epaper@smartbox_v1.e_paper(sch_1):page1_ins1359@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_CAP3216_5.7K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS15945@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins15945@discrete.\r.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins15945@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_CAP3216_4.7K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS18549@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins18549@discrete.\r.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins18549@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_CAP3216_2K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS506@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins506@discrete.\resistor.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins506@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_CAP3216_2K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS808@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins808@discrete.\resistor.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins808@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_CAP3216_2K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS824@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins824@discrete.\resistor.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins824@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_CAP3216_2K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS2646@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins2646@discrete.\resistor.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins2646@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_CAP3216_2K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS4480@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins4480@discrete.\resistor.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins4480@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_CAP3216_2K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS4496@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins4496@discrete.\resistor.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins4496@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_CAP3216_1K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS10286@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins10286@discrete.\r.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins10286@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_CAP3216_1K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS10302@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins10302@discrete.\r.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins10302@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RT1 'THERMISTOR_CAP3216_100K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS1923@DISCRETE.THERMISTOR.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins1923@discrete.\thermistor.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins1923@discrete.\thermistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW PUSHBUTTON_SWITCH_SMD_POWERB':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS3241@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins3241@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins3241@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW PUSHBUTTON_SWITCH_SMD_RESETB':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS3257@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins3257@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins3257@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW3 'SW PUSHBUTTON_SWITCH_SMD_EMERGE':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS3273@DISCRETE.SW PUSHBUTTON.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins3273@discrete.\sw pushbutton.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins3273@discrete.\sw pushbutton.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'BQ24093_BQ24093_BQ24093':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS374@MY_REMOTECHARGER.BQ24093.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins374@my_remotecharger.\bq24093.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins374@my_remotecharger.\bq24093.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U10 'AT24C02_SOIC8_AT24C02':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS8810@PROM.AT24C02.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins8810@prom.\at24c02.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins8810@prom.\at24c02.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U11 'INA219_SOIC8_INA219':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS8890@MY_ICS.INA219.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins8890@my_ics.\ina219.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins8890@my_ics.\ina219.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U12 'STM32L412K8TX_TQFP32_STM32L412K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS15621@MY_ICS.STM32L412K8TX.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins15621@my_ics.\stm32l412k8tx.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins15621@my_ics.\stm32l412k8tx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U13 'IS25LQ010B_SOIC8_IS25LQ010B':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS18376@MY_ICS.IS25LQ010B.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins18376@my_ics.\is25lq010b.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins18376@my_ics.\is25lq010b.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LED_RG_LED_RG_PWLED':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS853@MY_ICS.LED_RG.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins853@my_ics.\led_rg.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins853@my_ics.\led_rg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'ATTINY13_0_SOIC8_ATTINY13':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS2553@SMARTBOX_V1.ATTINY13_0.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins2553@smartbox_v1.\attiny13_0.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins2553@smartbox_v1.\attiny13_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'STM32L412K8TX_TQFP32_STM32L412K':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS4231@MY_ICS.STM32L412K8TX.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins4231@my_ics.\stm32l412k8tx.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins4231@my_ics.\stm32l412k8tx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'LED_RG_LED_RG_LED_RG':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS4536@MY_ICS.LED_RG.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins4536@my_ics.\led_rg.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins4536@my_ics.\led_rg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'NRF24L01 SMD_NRF24L01_NRF24L01':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS5099@NRF24L01.NRF24L01 SMD.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins5099@nrf24l01.\nrf24l01 smd.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins5099@nrf24l01.\nrf24l01 smd.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'RFM95_RFM95_RFM95':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS5189@LORAMODULES.RFM95.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins5189@loramodules.\rfm95.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins5189@loramodules.\rfm95.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'DS3231M_SOIC8_DS3231M':;
+
+SECTION_NUMBER 1
+ '@SMARTBOX_V1.SCHEMATIC1(SCH_1):INS8631@MY_ICS.DS3231M.NORMAL(CHIPS)':
+ C_PATH='@smartbox_v1.schematic1(sch_1):ins8631@my_ics.\ds3231m.normal\(chips)',
+ P_PATH='@smartbox_v1.schematic1(sch_1):page1_ins8631@my_ics.\ds3231m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

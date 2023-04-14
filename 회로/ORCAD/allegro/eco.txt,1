@@ -1,0 +1,565 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  SMARTBOX_V1.brd                                                             |
+|                                                    Wed Oct 21 09:01:31 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  EMERGENCYBUTTON pins ADDED TO this new net
+                                 SW3.2          U4.22          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E_BUSY       pins ADDED TO this new net
+                                 J7.9           U12.10         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E_CS         pins ADDED TO this new net
+                                 J7.12          U12.21         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E_DC         pins ADDED TO this new net
+                                 J7.11          U12.18         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E_RST        pins ADDED TO this new net
+                                 J7.10          U12.7          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E_SCLK       pins ADDED TO this new net
+                                 J7.13          U12.26         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  E_SDI        pins ADDED TO this new net
+                                 J7.14          U12.28         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 C1.2                           
+                                 C2.2                           
+                                 C3.2                           
+                                 C4.2                           
+                                 C5.2                           
+                                 C6.2                           
+                                 C7.2                           
+                                 C8.2                           
+                                 C9.2                           
+                                 C10.2                          
+                                 C11.2                          
+                                 C12.2                          
+                                 C13.2                          
+                                 D3.1                           
+                                 J1.2                           
+                                 J2.2                           
+                                 J2.3                           
+                                 J3.2                           
+                                 J4.2                           
+                                 J5.3                           
+                                 J6.2                           
+                                 J7.8                           
+                                 J7.17                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  SMARTBOX_V1.brd                                                             |
+|                                                    Wed Oct 21 09:01:31 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 J7.25                          
+                                 J7.26                          
+                                 R1.2                           
+                                 R2.2                           
+                                 R100.2                         
+                                 R101.2                         
+                                 RT1.2                          
+                                 SW1.1                          
+                                 SW2.1                          
+                                 SW3.1                          
+                                 U1.3                           
+                                 U1.7                           
+                                 U1.11                          
+                                 U4.16                          
+                                 U4.31                          
+                                 U4.32                          
+                                 U5.1                           
+                                 U5.3                           
+                                 U6.2                           
+                                 U7.1                           
+                                 U7.8                           
+                                 U7.10                          
+                                 U10.1                          
+                                 U10.2                          
+                                 U10.3                          
+                                 U10.7                          
+                                 U12.16                         
+                                 U12.31                         
+                                 U12.32                         
+                                 U13.4                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPU_RST      pins ADDED TO this new net
+                                 J6.4           R11.2          U4.26          
+                                 U12.4          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPU_WAKEUP   pins ADDED TO this new net
+                                 U4.25          U12.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_G        pins ADDED TO this new net
+                                 R7.1           U4.28          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED_R        pins ADDED TO this new net
+                                 R6.1           U4.27          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LORASS       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  SMARTBOX_V1.brd                                                             |
+|                                                    Wed Oct 21 09:01:31 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U4.14          U7.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LORA_DIO0    pins ADDED TO this new net
+                                 U4.15          U7.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LORA_DIO1    pins ADDED TO this new net
+                                 U4.18          U7.15          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LORA_RST     pins ADDED TO this new net
+                                 U4.7           U7.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MISO         pins ADDED TO this new net
+                                 U4.12          U6.7           U7.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MOSI         pins ADDED TO this new net
+                                 U4.13          U6.6           U7.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00579       pins ADDED TO this new net
+                                 R1.1           U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00625       pins ADDED TO this new net
+                                 R2.1           U1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00873       pins ADDED TO this new net
+                                 R4.2           U2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00877       pins ADDED TO this new net
+                                 R3.2           U2.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00950       pins ADDED TO this new net
+                                 R4.1           U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00975       pins ADDED TO this new net
+                                 R3.1           R5.1           U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01256       pins ADDED TO this new net
+                                 RT1.1          U1.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01841       pins ADDED TO this new net
+                                 C3.1           J7.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02201       pins ADDED TO this new net
+                                 C4.1           D2.2           J7.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02225       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  SMARTBOX_V1.brd                                                             |
+|                                                    Wed Oct 21 09:01:31 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 C5.1           J7.22          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02232       pins ADDED TO this new net
+                                 C6.1           D1.2           J7.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02261       pins ADDED TO this new net
+                                 C7.1           J7.20          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02268       pins ADDED TO this new net
+                                 C8.1           J7.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02275       pins ADDED TO this new net
+                                 C9.1           J7.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02728       pins ADDED TO this new net
+                                 C14.1          D1.1           L1.2           
+                                 Q1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02764       pins ADDED TO this new net
+                                 C14.2          D2.1           D3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02832       pins ADDED TO this new net
+                                 J7.2           Q1.2           R100.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02836       pins ADDED TO this new net
+                                 J7.3           Q1.1           R101.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02970       pins ADDED TO this new net
+                                 R5.2           U3.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03026       pins ADDED TO this new net
+                                 C11.1          J7.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03066       pins ADDED TO this new net
+                                 C12.1          J7.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03147       pins ADDED TO this new net
+                                 Q2.2           U3.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03307       pins ADDED TO this new net
+                                 SW1.2          U3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05866       pins ADDED TO this new net
+                                 J4.1           U7.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  SMARTBOX_V1.brd                                                             |
+|                                                    Wed Oct 21 09:01:31 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N12991       pins ADDED TO this new net
+                                 R6.2           U5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12995       pins ADDED TO this new net
+                                 R7.2           U5.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14305       pins ADDED TO this new net
+                                 U11.1          U11.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PGMCLK       pins ADDED TO this new net
+                                 J3.1           U4.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PGMCLK_15691 pins ADDED TO this new net
+                                 J6.1           U12.24         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PGMDIO       pins ADDED TO this new net
+                                 J3.3           U4.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PGMDIO_15691 pins ADDED TO this new net
+                                 J6.3           U12.23         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PGMTXD       pins ADDED TO this new net
+                                 J3.5           U4.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PGMTXD_15691 pins ADDED TO this new net
+                                 J6.5           U12.19         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET        pins ADDED TO this new net
+                                 J3.4           R10.2          U4.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESETBUTTON  pins ADDED TO this new net
+                                 SW2.2          U3.3           U4.3           
+                                 U4.6           U4.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RFCE         pins ADDED TO this new net
+                                 U4.9           U6.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RFSS         pins ADDED TO this new net
+                                 U4.10          U6.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ROM_CE       pins ADDED TO this new net
+                                 R12.2          U12.8          U13.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ROM_IO0      pins ADDED TO this new net
+                                 U12.15         U13.5          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  SMARTBOX_V1.brd                                                             |
+|                                                    Wed Oct 21 09:01:31 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  ROM_IO1      pins ADDED TO this new net
+                                 U12.14         U13.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ROM_IO2      pins ADDED TO this new net
+                                 U12.13         U13.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ROM_IO3      pins ADDED TO this new net
+                                 U12.12         U13.7          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ROM_SCK      pins ADDED TO this new net
+                                 U12.9          U13.6          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCK          pins ADDED TO this new net
+                                 U4.11          U6.5           U7.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SCL          pins ADDED TO this new net
+                                 J5.4           R9.1           U4.19          
+                                 U9.8           U10.6          U11.4          
+                                 U12.29         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SDA          pins ADDED TO this new net
+                                 J5.2           R8.1           U4.20          
+                                 U9.7           U10.5          U11.3          
+                                 U12.30         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VBAT         pins ADDED TO this new net
+                                 C2.1           J2.1           Q2.3           
+                                 U1.10          U2.2           U2.4           
+                                 U3.8           U9.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC          pins ADDED TO this existing net (pins not previously on any net)
+                                 C10.1                          
+                                 C13.1                          
+                                 J5.1                           
+                                 J7.15                          
+                                 J7.16                          
+                                 L1.1                           
+                                 Q2.1                           
+                                 R8.2                           
+                                 R9.2                           
+                                 R10.1                          
+                                 R11.1                          
+                                 R12.1                          
+                                 U4.1                           
+                                 U4.5                           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  SMARTBOX_V1.brd                                                             |
+|                                                    Wed Oct 21 09:01:31 2020  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U4.17                          
+                                 U6.1                           
+                                 U7.13                          
+                                 U11.7                          
+                                 U12.1                          
+                                 U12.5                          
+                                 U12.17                         
+                                 U13.8                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCH          pins ADDED TO this new net
+                                 C1.1           J1.1           U1.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  SMARTBOX_V1.brd                                                             |
+|                                                    Wed Oct 21 09:01:31 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ ANTENNA GND_0_UPL_ANTENNA GND
+ AT24C02_SOIC8_AT24C02
+ ATTINY13_0_SOIC8_ATTINY13
+ BQ24093_BQ24093_BQ24093
+ CAP NP_CAP3216_0.1UF
+ CAP NP_CAP3216_1UF
+ CAP NP_CAP3216_4.7UF
+ CON3_BATTERYCONNECTOR_CON3
+ CON4_JUMPER4_CON4
+ CON5_JUMPER5_CON5
+ DFR0363_DFR0363_DFR0363
+ DIODE SCHOTTKY_SOD123_MBR0530
+ DS3231M_SOIC8_DS3231M
+ EPD_DISPLAY_0_EPD_DISPLAY_EPD_D
+ INA219_SOIC8_INA219
+ INDUCTOR_CAP3216_88UH
+ IS25LQ010B_SOIC8_IS25LQ010B
+ LED_RG_LED_RG_LED_RG
+ LED_RG_LED_RG_PWLED
+ MOSFET_EN_SGD_SOT23_SI1308EDL
+ MOSFET_EP_SGD_SOT23_DMP1045U
+ NRF24L01 SMD_NRF24L01_NRF24L01
+ RESISTOR_CAP3216_3
+ RESISTOR_CAP3216_10K
+ RESISTOR_CAP3216_1K
+ RESISTOR_CAP3216_2K
+ RFM95_RFM95_RFM95
+ R_CAP3216_1K
+ R_CAP3216_4.7K
+ R_CAP3216_5.7K
+ STM32L412K8TX_TQFP32_STM32L412K
+ SW PUSHBUTTON_SWITCH_SMD_EMERGE
+ SW PUSHBUTTON_SWITCH_SMD_POWERB
+ SW PUSHBUTTON_SWITCH_SMD_RESETB
+ THERMISTOR_CAP3216_100K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  SMARTBOX_V1.brd                                                             |
+|                                                    Wed Oct 21 09:01:31 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_CAP3216_1UF    
+ C2                  CAP NP_CAP3216_1UF    
+ C3                  CAP NP_CAP3216_1UF    
+ C4                  CAP NP_CAP3216_1UF    
+ C5                  CAP NP_CAP3216_1UF    
+ C6                  CAP NP_CAP3216_1UF    
+ C7                  CAP NP_CAP3216_1UF    
+ C8                  CAP NP_CAP3216_1UF    
+ C9                  CAP NP_CAP3216_1UF    
+ C10                 CAP NP_CAP3216_0.1UF  
+ C11                 CAP NP_CAP3216_1UF    
+ C12                 CAP NP_CAP3216_1UF    
+ C13                 CAP NP_CAP3216_4.7UF  
+ C14                 CAP NP_CAP3216_0.1UF  
+ D1                  DIODE SCHOTTKY_SOD123_MBR0530 
+ D2                  DIODE SCHOTTKY_SOD123_MBR0530 
+ D3                  DIODE SCHOTTKY_SOD123_MBR0530 
+ J1                  DFR0363_DFR0363_DFR0363 
+ J2                  CON3_BATTERYCONNECTOR_CON3 
+ J3                  CON5_JUMPER5_CON5     
+ J4                  ANTENNA GND_0_UPL_ANTENNA GND 
+ J5                  CON4_JUMPER4_CON4     
+ J6                  CON5_JUMPER5_CON5     
+ J7                  EPD_DISPLAY_0_EPD_DISPLAY_EPD_D 
+ L1                  INDUCTOR_CAP3216_88UH 
+ Q1                  MOSFET_EN_SGD_SOT23_SI1308EDL 
+ Q2                  MOSFET_EP_SGD_SOT23_DMP1045U 
+ R1                  RESISTOR_CAP3216_1K   
+ R2                  RESISTOR_CAP3216_2K   
+ R3                  RESISTOR_CAP3216_2K   
+ R4                  RESISTOR_CAP3216_2K   
+ R5                  RESISTOR_CAP3216_2K   
+ R6                  RESISTOR_CAP3216_2K   
+ R7                  RESISTOR_CAP3216_2K   
+ R8                  R_CAP3216_1K          
+ R9                  R_CAP3216_1K          
+ R10                 R_CAP3216_4.7K        
+ R11                 R_CAP3216_5.7K        
+ R12                 R_CAP3216_4.7K        
+ R100                RESISTOR_CAP3216_10K  
+ R101                RESISTOR_CAP3216_3    
+ RT1                 THERMISTOR_CAP3216_100K 
+ SW1                 SW PUSHBUTTON_SWITCH_SMD_POWERB 
+ SW2                 SW PUSHBUTTON_SWITCH_SMD_RESETB 
+ SW3                 SW PUSHBUTTON_SWITCH_SMD_EMERGE 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  SMARTBOX_V1.brd                                                             |
+|                                                    Wed Oct 21 09:01:31 2020  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U1                  BQ24093_BQ24093_BQ24093 
+ U2                  LED_RG_LED_RG_PWLED   
+ U3                  ATTINY13_0_SOIC8_ATTINY13 
+ U4                  STM32L412K8TX_TQFP32_STM32L412K 
+ U5                  LED_RG_LED_RG_LED_RG  
+ U6                  NRF24L01 SMD_NRF24L01_NRF24L01 
+ U7                  RFM95_RFM95_RFM95     
+ U9                  DS3231M_SOIC8_DS3231M 
+ U10                 AT24C02_SOIC8_AT24C02 
+ U11                 INA219_SOIC8_INA219   
+ U12                 STM32L412K8TX_TQFP32_STM32L412K 
+ U13                 IS25LQ010B_SOIC8_IS25LQ010B 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  SMARTBOX_V1.brd                                                             |
+|                                                    Wed Oct 21 09:01:31 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D2.2                           PRIM_FILE      .\pstchip.dat
+ D3.2                           PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.3                           PRIM_FILE      .\pstchip.dat
+ J3.5                           PRIM_FILE      .\pstchip.dat
+ J4.2                           PRIM_FILE      .\pstchip.dat
+ J5.4                           PRIM_FILE      .\pstchip.dat
+ J6.5                           PRIM_FILE      .\pstchip.dat
+ J7.17                          PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ Q1.1                           PRIM_FILE      .\pstchip.dat
+ Q2.1                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R100.2                         PRIM_FILE      .\pstchip.dat
+ R101.2                         PRIM_FILE      .\pstchip.dat
+ RT1.2                          PRIM_FILE      .\pstchip.dat
+ SW1.2                          PRIM_FILE      .\pstchip.dat
+ SW2.2                          PRIM_FILE      .\pstchip.dat
+ SW3.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  SMARTBOX_V1.brd                                                             |
+|                                                    Wed Oct 21 09:01:31 2020  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ U1.11                          PRIM_FILE      .\pstchip.dat
+ U2.1                           PRIM_FILE      .\pstchip.dat
+ U3.8                           PRIM_FILE      .\pstchip.dat
+ U4.32                          PRIM_FILE      .\pstchip.dat
+ U5.1                           PRIM_FILE      .\pstchip.dat
+ U6.1                           PRIM_FILE      .\pstchip.dat
+ U7.13                          PRIM_FILE      .\pstchip.dat
+ U9.6                           PRIM_FILE      .\pstchip.dat
+ U10.7                          PRIM_FILE      .\pstchip.dat
+ U11.7                          PRIM_FILE      .\pstchip.dat
+ U12.32                         PRIM_FILE      .\pstchip.dat
+ U13.8                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  389                                            |
+|------------------------------------------------------------------------------|

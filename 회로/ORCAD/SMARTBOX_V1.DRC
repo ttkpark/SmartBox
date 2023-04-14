@@ -1,0 +1,106 @@
+Date and Time : 10/21/20 09:00:25
+
+--------------------------------------------------
+Checking Schematic: E_PAPER
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Unconnected Bus Nets
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector PGMCLK 
+                    SCHEMATIC1, CPU  (58.42, 45.72) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector PGMDIO 
+                    SCHEMATIC1, CPU  (58.42, 50.80) 
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector PGMTXD 
+                    SCHEMATIC1, CPU  (119.38, 86.36) 
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: E_PAPER
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+--------------------------------------------------
+Checking Entire Design: SMARTBOX_V1 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,VSS  VSS  GND
+                    SCHEMATIC1, POWER  (129.54, 60.96) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U1,VSS2  VSS2  GND
+                    SCHEMATIC1, POWER  (129.54, 71.12) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U12,VSS  VSS  GND
+                    SCHEMATIC1, GPU  (139.70, 109.22) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U12,VSS2  VSS2  GND
+                    SCHEMATIC1, GPU  (147.32, 109.22) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U4,VSS  VSS  GND
+                    SCHEMATIC1, CPU  (137.16, 111.76) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U7,GND2  GND2  GND
+                    SCHEMATIC1, CPU  (68.58, 180.34) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U7,GND3  GND3  GND
+                    SCHEMATIC1, CPU  (68.58, 177.80) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U4,VSS2  VSS2  GND
+                    SCHEMATIC1, CPU  (144.78, 111.76) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? J7,COM2  COM2  GND
+                    E_PAPER, EPAPER  (193.04, 111.76) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? J7,COM1  COM1  GND
+                    E_PAPER, EPAPER  (193.04, 109.22) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? J7,VSS  VSS  GND
+                    E_PAPER, EPAPER  (193.04, 88.90) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U3,VCC  VCC  VBAT
+                    SCHEMATIC1, POWER  (30.48, 142.24) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U12,VDD2  VDD2  VCC
+                    SCHEMATIC1, GPU  (142.24, 50.80) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U12,VDD  VDD  VCC
+                    SCHEMATIC1, GPU  (139.70, 50.80) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U12,VDDA  VDDA  VCC
+                    SCHEMATIC1, GPU  (147.32, 50.80) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U4,VDD  VDD  VCC
+                    SCHEMATIC1, CPU  (137.16, 53.34) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U4,VDDA  VDDA  VCC
+                    SCHEMATIC1, CPU  (144.78, 53.34) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U4,VDD2  VDD2  VCC
+                    SCHEMATIC1, CPU  (139.70, 53.34) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? J7,VCI  VCI  VCC
+                    E_PAPER, EPAPER  (193.04, 86.36) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? J7,VDDIO  VDDIO  VCC
+                    E_PAPER, EPAPER  (193.04, 83.82) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------

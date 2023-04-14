@@ -1,0 +1,191 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : SMARTBOX_V1.brd                               )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Wed Oct 21 09:02:40 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'F:\DESKTOP\SMARTBOX\04.SOURCE\회로\ORCAD\allegro';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'F:/DESKTOP/SMARTBOX/04.SOURCE/회로/ORCAD/allegro/SMARTBOX_V1.brd';
+NEW_BOARD_NAME 'F:/DESKTOP/SMARTBOX/04.SOURCE/회로/ORCAD/allegro/SMARTBOX_V1.brd';
+
+CmdLine: netrev.exe -y 1 -n -i F:\DESKTOP\SMARTBOX\04.SOURCE\회로\ORCAD\allegro F:\DESKTOP\SMARTBOX\04.SOURCE\회로\ORCAD\allegro\SMARTBOX_V1.brd F:\DESKTOP\SMARTBOX\04.SOURCE\회로\ORCAD\allegro\SMARTBOX_V1.brd
+
+------ Preparing to read pst files ------
+
+Starting to read F:/DESKTOP/SMARTBOX/04.SOURCE/회로/ORCAD/allegro/pstchip.dat 
+   Finished reading F:/DESKTOP/SMARTBOX/04.SOURCE/회로/ORCAD/allegro/pstchip.dat (00:00:00.05)
+Starting to read F:/DESKTOP/SMARTBOX/04.SOURCE/회로/ORCAD/allegro/pstxprt.dat 
+   Finished reading F:/DESKTOP/SMARTBOX/04.SOURCE/회로/ORCAD/allegro/pstxprt.dat (00:00:00.00)
+Starting to read F:/DESKTOP/SMARTBOX/04.SOURCE/회로/ORCAD/allegro/pstxnet.dat 
+   Finished reading F:/DESKTOP/SMARTBOX/04.SOURCE/회로/ORCAD/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAP3216' for device 'CAP NP_CAP3216_1UF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAP3216' for device 'CAP NP_CAP3216_0.1UF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAP3216' for device 'CAP NP_CAP3216_4.7UF' not found in PSMPATH or must be "dbdoctor"ed.
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SOD123' for device 'DIODE SCHOTTKY_SOD123_MBR0530' not found in PSMPATH or must be "dbdoctor"ed.
+
+#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'DFR0363' for device 'DFR0363_DFR0363_DFR0363' not found in PSMPATH or must be "dbdoctor"ed.
+
+#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'BATTERYCONNECTOR' for device 'CON3_BATTERYCONNECTOR_CON3' not found in PSMPATH or must be "dbdoctor"ed.
+
+#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'UPL' for device 'ANTENNA GND_0_UPL_ANTENNA GND' not found in PSMPATH or must be "dbdoctor"ed.
+
+#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'EPD_DISPLAY' for device 'EPD_DISPLAY_0_EPD_DISPLAY_EPD_D' not found in PSMPATH or must be "dbdoctor"ed.
+
+#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAP3216' for device 'INDUCTOR_CAP3216_88UH' not found in PSMPATH or must be "dbdoctor"ed.
+
+#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAP3216' for device 'RESISTOR_CAP3216_1K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAP3216' for device 'R_CAP3216_4.7K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAP3216' for device 'RESISTOR_CAP3216_10K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#13  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAP3216' for device 'RESISTOR_CAP3216_3' not found in PSMPATH or must be "dbdoctor"ed.
+
+#14  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAP3216' for device 'R_CAP3216_5.7K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#15  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAP3216' for device 'RESISTOR_CAP3216_2K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#16  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAP3216' for device 'R_CAP3216_1K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#17  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'CAP3216' for device 'THERMISTOR_CAP3216_100K' not found in PSMPATH or must be "dbdoctor"ed.
+
+#18  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SWITCH_SMD' for device 'SW PUSHBUTTON_SWITCH_SMD_POWERB' not found in PSMPATH or must be "dbdoctor"ed.
+
+#19  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SWITCH_SMD' for device 'SW PUSHBUTTON_SWITCH_SMD_RESETB' not found in PSMPATH or must be "dbdoctor"ed.
+
+#20  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SWITCH_SMD' for device 'SW PUSHBUTTON_SWITCH_SMD_EMERGE' not found in PSMPATH or must be "dbdoctor"ed.
+
+#21  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'BQ24093' for device 'BQ24093_BQ24093_BQ24093' not found in PSMPATH or must be "dbdoctor"ed.
+
+#22  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED_RG' for device 'LED_RG_LED_RG_PWLED' not found in PSMPATH or must be "dbdoctor"ed.
+
+#23  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'LED_RG' for device 'LED_RG_LED_RG_LED_RG' not found in PSMPATH or must be "dbdoctor"ed.
+
+#24  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'NRF24L01' for device 'NRF24L01 SMD_NRF24L01_NRF24L01' not found in PSMPATH or must be "dbdoctor"ed.
+
+#25  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'RFM95' for device 'RFM95_RFM95_RFM95' not found in PSMPATH or must be "dbdoctor"ed.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           F:/Project/CAD/ORCAD/Symbols_GH/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           F:/Project/CAD/ORCAD/Symbols_GH/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Oct 21 9:02:40 2020
+   DESIGN NAME : 'SMARTBOX_V1'
+   PACKAGING ON Sep 10 2012 04:46:09
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ 25 warnings detected
+
+cpu time      0:01:21
+elapsed time  0:00:01
+

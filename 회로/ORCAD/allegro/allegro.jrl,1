@@ -1,0 +1,45 @@
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Wed Oct 21 09:04:28 2020
+\t (00:00:01)         Host=GIHO-HPNPC User=Administrator Pid=2204 CPUs=8
+\t (00:00:01) 
+\t (00:00:04) Starting new design...
+\i (00:00:04) trapsize 2308
+\i (00:00:04) trapsize 2165
+\i (00:00:04) trapsize 2333
+\i (00:00:04) trapsize 2087
+\i (00:00:04) trapsize 2087
+\i (00:00:05) generaledit 
+\i (00:00:09) enved 
+\i (00:00:10) generaledit 
+\i (00:00:12) setwindow form.prfedit
+\i (00:00:12) FORM prfedit treelist  Paths 
+\i (00:00:15) FORM prfedit treelist  Config Paths 
+\i (00:00:17) FORM prfedit treelist  Editor Paths 
+\i (00:00:19) FORM prfedit treelist  Library Paths 
+\i (00:00:19) FORM prfedit treelist  Editor Paths 
+\i (00:00:19) FORM prfedit treelist  Library Paths 
+\i (00:00:22) FORM prfedit psmpath  
+\i (00:00:27) FORM prfedit cancel  
+\i (00:00:52) setwindow pcb
+\i (00:00:52) pick grid 6429.4 5769.4
+\t (00:00:52) last pick:  6400.0  5800.0
+\i (00:00:54) enved 
+\i (00:00:55) generaledit 
+\i (00:00:57) setwindow form.prfedit
+\i (00:00:57) FORM prfedit psmpath  
+\i (00:01:06) FORM prfedit cancel  
+\i (00:01:12) setwindow pcb
+\i (00:01:12) enved 
+\i (00:01:13) generaledit 
+\i (00:01:15) setwindow form.prfedit
+\i (00:01:15) FORM prfedit padpath  
+\i (00:01:20) FORM prfedit cancel  
+\i (00:01:23) setwindow pcb
+\i (00:01:23) open 
+\i (00:01:25) fillin "menu_cancel"
+\i (00:01:26) generaledit 
+\i (00:03:41) new 
+\i (00:11:06) newdrawfillin "menu_cancel"
+\i (00:11:06) generaledit 
+\i (00:11:09) exit 
+\t (00:11:10)     Journal end - Wed Oct 21 09:15:38 2020
